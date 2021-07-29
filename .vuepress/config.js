@@ -71,7 +71,7 @@ module.exports = {
         "text": "关于",
         "icon": "reco-message",
         "link": "/docs/about",
-      }
+      },
     ],
 //    "sidebar": {
 //      "/docs/theme-reco/": [
