@@ -61,6 +61,11 @@ module.exports = {
             "icon": "reco-mayun"
           },
           {
+            "text": "Gitlab",
+            "link": "https://gitlab.com/frankwuzp",
+            "icon": "reco-gitlab"
+          },
+          {
             "text": "Email",
             "link": "mailto:frankwuzp@gmail.com",
             "icon": "reco-mail"
