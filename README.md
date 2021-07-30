@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: 人生天地间，忽如远行客。
-tagline: Hi！欢迎来到米斯特乌的主页~
+tagline: 👋Hi！欢迎来到米斯特乌的主页~
 heroImage: /whale-logo.png
 #  heroImageStyle: {
 #  maxWidth: '600px',
