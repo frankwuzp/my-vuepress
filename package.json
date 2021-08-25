@@ -1,7 +1,7 @@
 {
   "name": "米斯特乌的主页",
   "version": "1.0.0",
-  "author": "reco_luan",
+  "author": "米斯特乌",
   "scripts": {
     "dev": "vuepress dev . --open --host \"localhost\"",
     "build": "vuepress build ."
