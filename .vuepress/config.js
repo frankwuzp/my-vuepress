@@ -67,8 +67,21 @@ module.exports = {
           },
           {
             "text": "Email",
-            "link": "mailto:frankwuzp@gmail.com",
+            "link": "mailto:me@wuzhiping.top",
             "icon": "reco-mail"
+          },
+        ]
+      },
+      {
+        "text": "实验室",
+        "icon": "reco-category",
+        "items": [
+          {
+            "text": "👨‍💻 Matrix",
+            "link": "https://m.wuzhiping.top/matrix/",
+          },
+          {"text": "💕 情侣碎碎念",
+           "link": "https://m.wuzhiping.top/mylove"
           },
         ]
       },
@@ -120,7 +133,7 @@ module.exports = {
     "authorAvatar": "/whale-icon.png",
     "record": "粤ICP备2021089570号",
     "recordLink": 'https://beian.miit.gov.cn/#/Integrated/index',
-    "startYear": "2021"
+    "startYear": "2021",
   },
   "markdown": {
     "lineNumbers": true
